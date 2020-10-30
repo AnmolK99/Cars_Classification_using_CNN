@@ -1,0 +1,46 @@
+Title: Car Model Detection using CNN
+
+Author: Anmol Kesherwani,11709108,anmolakkesherwani1999@gmail.com,8840389425
+
+***** Abstract *****
+Classification of Cars is Done using Convulational Neural Network to Classify the cars according to the class and model they belong
+This technology can help online car sellers/retailer to correctly classify and place their product in perfect inventory for the users
+to reach their desired model in lesser time rather than fishing for particular model all over the store.
+Some car-models are - 
+- Acura Integra Type R 2001
+- AM General Hummer SUV 2000
+- Ford F-150 Regular Cab 2012
+- Hyundai Veloster Hatchback 2012
+- Toyota Sequoia SUV 2012
+- Volvo C30 Hatchback 2012 etc,.
+
+1. ***** Introduction *****
+These Days knowing the sitting capacity and design types people want to see a particular model of a vehicle and as there are so many
+non-desirable options according to personal needs people want to look for the particular car type they have in their mind and this project
+is made to classify the cars among the well classified models.
+This project can be used by Manufacturers to even perticular customers who have a variety of options available in their database.
+
+2. ***** Proposed Work- Diagram/GRaphical Abstract/Layout *****
+   2.1. Data Base - Stanford US car Dataset
+   2.2. Image Resizing and batch management done while loading
+
+3. ***** Result & Discussion *****
+    Graphs attached in github account(link below)
+
+4. ***** Conclusion *****
+Looking at the performance of the model this particular problem is more likely to be better solved using feature extraction on the images which
+would require Deep Image Processing techniques, in the further working with the model it is likely for me to perform feature extraction.
+This is a starting model and on observing other models on Internet(Kaggle's Contributors) we can find these Direct CNN's 
+are giving the relatable accuracy as compared to the model made and attached.
+
+5. ***** References *****
+Training a DenseNet for the Stanford Car dataset, Jesus Utrera, 
+(https://www.kaggle.com/jutrera/training-a-densenet-for-the-stanford-car-dataset)
+
+6. ***** Github Link for code ***** 
+https://github.com/AnmolK99/Cars_Classification_using_CNN
+
+************  Finish  ***************
+**********  Thank You  **************
+
+
